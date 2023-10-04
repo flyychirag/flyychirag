@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @flyychirag
-- 👀 I’m interested in python development  ,networking , docker, graphql,fastapi ...
-- 🌱 I’m currently learning django framework..., 
-- 💞️ I’m looking to collaborate on ..drf.
+- 👀 I’m interested in development  ,networking , docker, graphql,fastapi ...
 - 📫 How to reach me  mail_me: chirag.mahendra2333@gmail.com
 
 
